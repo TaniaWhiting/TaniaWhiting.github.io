@@ -1,11 +1,11 @@
 # Site settings
-author: Tania Whiting
-title: 
+author: Tania
+title: Infinite Loops for the Very First Time
 header-img: img/home-bg.png
 email: tanwhiting@aol.com
-copyright_name: Tania Whiting
+copyright_name: Tania
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Potentially Recursive?
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  TaniaWhiting
