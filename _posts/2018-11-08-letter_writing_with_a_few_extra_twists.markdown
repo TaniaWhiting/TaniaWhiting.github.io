@@ -26,8 +26,8 @@ Okay Mom, we are really zooming along here now.  We just need some additional in
 < html><br>
               	<head> <br>
                 </head><br>	
-                <body><br>
-                                        Your letter goes in here Mom!
+                <body><br><br>
+                                        Your letter goes in here Mom!<br>
                < /body><br>
 < /html>
 
