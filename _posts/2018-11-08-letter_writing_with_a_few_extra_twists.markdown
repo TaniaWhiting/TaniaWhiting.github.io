@@ -24,12 +24,12 @@ Okay Mom, we are really zooming along here now.  We just need some additional in
 
 <DOCTYPE! html><br>
 < html><br>
-	<head> <br>
-               </head><br>	
-               <body><br>
+              	<head> <br>
+                </head><br>	
+                <body><br>
                                         Your letter goes in here Mom!
                < /body><br>
 < /html>
 
-Well Mom I hope you can see getting published online is really as easy as writing a regular letter, just with a few additional twists.  Doesn’t matter what you want to say or show with pictures, it’really is quite easy to generate on online presence.  See you online Mom!
+Well Mom I hope you can see getting published online is really as easy as writing a regular letter, just with a few additional twists.  Doesn’t matter what you want to say or show with pictures, it really is quite easy to generate on online presence.  See you online Mom!
 
