@@ -21,7 +21,7 @@ Does your letter have more than one page?  No problem!  We can link to each addi
 
 Now, Mom, don’t you often include in your letters photographs?  Well, we can add those too!   Including them is easy, we just use the HTML image tag, < img >.  This again is a litte more complex because it also has  an attribute, the src attribute  which provides  the location of the image we want to display.  As an example, we could write the following for one of your photos:  < img src=”HolidayPhoto.jpg” alt=”Holiday Photo 1" >.  Notice that in HTML the img does not have a closing tag.  The alt attribute that we have included just provides some user friendly text in case the image does not successfully render.
 
-Okay Mom, we are really zooming along here now.  We just need some additional information to make the page fully functional.  Everything we have so far discussed goes in the body of the HTML page, which again will go between tags, in this case the body tags.  We also have to include < !DOCTYPE html > at the very top of the page, and HTML head tags that contain metadata about the HTLM document itself.  Visually it will look like this:
+Okay Mom, we are really zooming along here now.  We just need some additional information to make the page fully functional.  Everything we have so far discussed goes in the body of the HTML page, which again will go between tags, in this case the body tags.  We also have to include <!DOCTYPE html> at the very top of the page, and HTML head tags that contain metadata about the HTML document itself.  Visually it will look like this:
 
 <DOCTYPE! html>
 < html>
