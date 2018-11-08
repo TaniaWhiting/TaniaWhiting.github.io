@@ -1,16 +1,18 @@
 ---
 layout: post
 title:      "Letter Writing with a Few Extra Twists"
-date:       2018-11-08 21:48:20 +0000
+date:       2018-11-08 16:48:21 -0500
 permalink:  letter_writing_with_a_few_extra_twists
 ---
 
+
+Dear Mom,
 
 Let me give you some insight about HTML and how to create your own webpages.  You know how you love to write letters to friends and family?  Okay, it's pretty much the same but with a few additional twists to the writing .  First off,  pull out an old letter of yours and we will make that document World Wide Web ready in no time at all.  Once you get the hang of it, it won’t just be friends and family that can read your letters, but anyone online in the world!
 
 The language of the web is HTML, or more explicitly, Hypertext Markup Language.  All text must be marked up in this language for the browser to display the content you have created in your webpage.  So to begin with, we will literally mark up your letter in HTML and this is done using tags.  A tag takes the following form, <tag>.  The tags usually come in pairs with an opening and a closing tag surrounding the text we want to mark up.  As our first example of using tags, let’s  give your letter the heading  “Our Summer Vacation!”.  To do so we will surround the text with the h1 header tag, a tag which will provide the largest text size, making sure the heading will stand out.  Visually it looks like this:
 
- <h1>Holidays with the Family!</h1>
+<h1>Holidays with the Family!</h1>
  
  Congrats on your first line of HTML, Mom!  Okay, let’s forge on ahead!  One of the most common structural  elements in any written document is the paragraph.  HTML marks paragraphs with the paragraph tag, <p>.  So let’s now add the following tag to the front of the each paragraph in your letter.  At the very end of each paragraph, place the closing tag </p>.  Okay, so at this point, we have marked up your letter for a heading and paragraphs.  Not too tough, right?!  
  
